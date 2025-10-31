@@ -41,6 +41,5 @@ int main() {
         current = next;
     }
     cout << endl;
-    delete tail->next; delete head;
     return 0;
 }
